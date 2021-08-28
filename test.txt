@@ -7,7 +7,7 @@ sprite;
 //name;
 cat;
 //image file;
-ssgm.vicwoldev.com/sprite-images/cat.sisf;
+https://ssgm.vicwoldev.com/sprite-images/cat.sisf;
 
 //comment
 
