@@ -1,0 +1,38 @@
+Title: my game;
+author: victor;
+
+new;
+//type;
+sprite;
+//name;
+cat;
+//image file;
+policianet.com/prolang/cat.txt;
+
+//comment
+
+new;
+var;
+count;
+
+loop for;
+cat(;
+
+cmd;
+when;
+click;
+change var;
+count;
+1;
+
+cmd;
+go to;
+mouseX;
+mouseY + 100;
+
+cmd;
+start sound;
+beep;
+
+);
+end loop;
