@@ -11,7 +11,7 @@ backdrop;
 //image file;
 https://ssgm.vicwoldev.com/sprite-images/background.sisf;
 
-//comment
+//comment;
 
 new;
 sprite;
