@@ -1,5 +1,7 @@
-Title: my game;
-author: victor;
+Title;
+My game;
+Author;
+VicWolRocket;
 
 new;
 //type;
