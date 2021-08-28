@@ -7,7 +7,7 @@ sprite;
 //name;
 cat;
 //image file;
-policianet.com/prolang/cat.txt;
+ssgm.vicwoldev.com/sprite-images/cat.sisf;
 
 //comment
 
