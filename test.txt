@@ -7,11 +7,16 @@ new;
 //type;
 sprite;
 //name;
-cat;
+backdrop;
 //image file;
-https://ssgm.vicwoldev.com/sprite-images/cat.sisf;
+https://ssgm.vicwoldev.com/sprite-images/background.sisf;
 
 //comment
+
+new;
+sprite;
+cat;
+https://ssgm.vicwoldev.com/sprite-images/cat.sisf;
 
 new;
 var;
