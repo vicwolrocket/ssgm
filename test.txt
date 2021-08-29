@@ -7,7 +7,7 @@ Author: Vicwolrocket;
 new sprite;
 
 {
-"name":"background"
+"name":"background",
 "image":"https://ssgm.vicwoldev.com/sprite-images/background.sisf"
 };
 
@@ -15,6 +15,6 @@ new var;
 // Normal is temporary;
 // Saved is permanent until data is cleared;
 {
-"type":"normal"
+"type":"normal",
 "name":"test"
 };
