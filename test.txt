@@ -10,9 +10,9 @@ new sprite;
 "image":"https://ssgm.vicwoldev.com/sprite-images/cat.sisf"
 };
 
-//new sprite;
+new sprite;
 
-//{
+{
 "name":"background",
 "image":"https://ssgm.vicwoldev.com/sprite-images/background.sisf"
 };
