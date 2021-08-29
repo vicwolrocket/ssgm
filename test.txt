@@ -19,12 +19,12 @@ new var;
 "name":"test"
 };
 
-when."1","=","3"
+when."1","=","3";
  ask;
  "Hello!";
-  if."answer","=","test"
-   ask "Thanks!"
-  end if
- end when
+  if."answer","=","test";
+   ask "Thanks!";
+  end if;
+ end when;
 
-SYNTAX ERROR
+SYNTAX ERROR;
