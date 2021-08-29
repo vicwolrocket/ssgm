@@ -12,8 +12,8 @@ new sprite;
 };
 
 new var;
-// Normal is temporary
-// Saved is permanent until data is cleared
+// Normal is temporary;
+// Saved is permanent until data is cleared;
 {
 "type":"normal"
 "name":"test"
