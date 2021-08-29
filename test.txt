@@ -1,45 +1,20 @@
-Title;
-My game;
-Author;
-VicWolRocket;
+//Info;
 
-new;
-//type;
-sprite;
-//name;
-backdrop;
-//image file;
-https://ssgm.vicwoldev.com/sprite-images/background.sisf;
+Title: My game;
+Author: Vicwolrocket;
 
-//comment;
 
-new;
-sprite;
-cat;
-https://ssgm.vicwoldev.com/sprite-images/cat.sisf;
+new sprite;
 
-new;
-var;
-count;
+{
+"name":"background"
+"image":"https://ssgm.vicwoldev.com/sprite-images/background.sisf"
+};
 
-loop for;
-cat(;
-
-cmd;
-when;
-click;
-change var;
-count;
-1;
-
-cmd;
-go to;
-mouseX;
-mouseY + 100;
-
-cmd;
-start sound;
-beep;
-
-);
-end loop;
+new var;
+// Normal is temporary
+// Saved is permanent until data is cleared
+{
+"type":"normal"
+"name":"test"
+};
