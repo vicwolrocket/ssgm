@@ -7,7 +7,7 @@ new sprite;
 
 {
 "name":"cat",
-"image":"https://ssgm.vicwoldev.com/sprite-images/background.sisf"
+"image":"https://ssgm.vicwoldev.com/sprite-images/cat.sisf"
 };
 
 //new sprite;
