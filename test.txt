@@ -33,4 +33,4 @@ new var;
 //  end if;
 // end when;
 
-//SYNTAX ERROR;
+SYNTAX ERROR;
