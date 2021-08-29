@@ -3,10 +3,16 @@
 Title: My game;
 Author: Vicwolrocket;
 
-
 new sprite;
 
 {
+"name":"cat",
+"image":"https://ssgm.vicwoldev.com/sprite-images/background.sisf"
+};
+
+//new sprite;
+
+//{
 "name":"background",
 "image":"https://ssgm.vicwoldev.com/sprite-images/background.sisf"
 };
